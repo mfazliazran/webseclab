@@ -1,0 +1,1 @@
+WebSecLab is a Linux based virtual machine designed to provide an integrated environment to learn web security.
